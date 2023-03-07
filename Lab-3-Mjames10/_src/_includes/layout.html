@@ -9,24 +9,10 @@
     <link href="../css/style.css" rel="stylesheet">
 </head>
 <body>
-    <header><nav>
-     <ul><li><a href="/">Home</a></li>
-<li><a href="/ghaz/">Ghazgull</a></li>
-<li><a href="/legz/">Legz</a></li></ul>
-</nav>
+    <header>{% include 'nav.html' %}
 
 
     </header>
-    <h1>This site is a lab</h1>
-<p>I like orks</p>
-<h2>Here are my favorite orks:</h2>
-<ol>
-<li>Ghazgull Mag Uruk Thraka</li>
-<li>Ratfink Legz-Snatcha</li>
-<li>Uftak Blackhawk Gragant-Smasha</li>
-<li>Kaptin Badrukk</li>
-<li>Makari</li>
-</ol>
-
+    {{ content }}
 </body>
 </html>
