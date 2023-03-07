@@ -16,7 +16,6 @@ html {
 /* Remove the tiny space around the edge of the page */
 body {
   margin: 0;
-  padding: 2vw;
 }
 
 /*
@@ -134,6 +133,15 @@ h1 {
 
 pre {
   white-space: pre-wrap;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  padding: 0;
+}
+nav ul li a {
+  padding: 1em;
 }
 
 /*# sourceMappingURL=style.css.map */

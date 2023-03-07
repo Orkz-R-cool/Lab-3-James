@@ -1,10 +1,12 @@
 ---
 layout: layout.html
-title: Ghazgull Thraka
+title: Ghazgkull Thraka
 eleventyNavigation:
-     key: Ghazgull
+     key: Ghazgkull
 ---
 
 # {{title}}
 
-Ghazgull Mag Uruk Thraka is The Prophet of The WAAAAAAAAGH!
+Ghazgkull Mag Uruk Thraka is The Prophet of The WAAAAAAAAGH!
+
+![Ghazgkull](../images/ghazgull.jpg)

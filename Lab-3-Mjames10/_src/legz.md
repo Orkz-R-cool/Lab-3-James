@@ -1,10 +1,10 @@
 ---
 layout: layout.html
-title: Ratfink Legz-Snatcha
+title: Grugbog Legz-Snatcha
 eleventyNavigation:
      key: Legz
 ---
 
 # {{title}}
 
-Ghazgull Mag Uruk Thraka is The Prophet of The WAAAAAAAAGH!
+Grugbog Legz-Snatcha is the warboss I kitbashed to lead my Orks
